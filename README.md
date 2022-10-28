@@ -1,0 +1,2 @@
+# syntax
+bill gates
